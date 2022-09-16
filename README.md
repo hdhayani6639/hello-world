@@ -1,1 +1,2 @@
 # hello-world
+I am looking forward to learn UI/UX form this course, I do have a a bit of experience in back end as I come from an computer engineering background, though my focus is to learn all the tools available for prototyping and designing as well as develop the websites. Moreover I also want to learn the branding and business strategies associated with content branding.
